@@ -1,13 +1,13 @@
-package com.example.blackjackspringboot;
+package com.example.SpringbootBlackjack;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BlackjackspringbootApplication {
+public class SpringbootBlackjackApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BlackjackspringbootApplication.class, args);
+		SpringApplication.run(SpringbootBlackjackApplication.class, args);
 	}
 
 }

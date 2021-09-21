@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>blackjackspringboot</artifactId>
+	<artifactId>SpringbootBlackjack</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>blackjackspringboot</name>
+	<name>SpringbootBlackjack</name>
 	<description>Blackjack project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
